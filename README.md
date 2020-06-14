@@ -1,6 +1,6 @@
-## Jammming
+# Jammming
 
-# React web application with Spotify API
+## React web application with Spotify API
 
 - Search the Spotify library
 - Create a custom playlist
